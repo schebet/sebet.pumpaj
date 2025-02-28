@@ -115,7 +115,7 @@ function App() {
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <div className="overflow-hidden rounded-lg shadow-md">
               <img 
-                src="https://www.facebook.com/photo?fbid=10235532869770752&set=pcb.3887287474821741" 
+                src="https://www.juznevesti.com/wp-content/uploads/2025/02/IMG_20250201_155500-scaled-e1738492846599.jpg" 
                 alt="Studenti na protestu" 
                 className="w-full h-64 object-cover hover:scale-105 transition-transform duration-300"
               />
