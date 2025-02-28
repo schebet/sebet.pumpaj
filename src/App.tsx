@@ -122,7 +122,7 @@ function App() {
             </div>
             <div className="overflow-hidden rounded-lg shadow-md">
               <img 
-                src="https://images.unsplash.com/photo-1591189824935-9d721b1ef748?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                src="https://www.facebook.com/photo?fbid=10235532869770752&set=pcb.3887287474821741" 
                 alt="Studentski marš" 
                 className="w-full h-64 object-cover hover:scale-105 transition-transform duration-300"
               />
