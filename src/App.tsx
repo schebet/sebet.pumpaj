@@ -129,7 +129,7 @@ function App() {
             </div>
             <div className="overflow-hidden rounded-lg shadow-md">
               <img 
-                src="https://schebet.netlify.app/assets/%C5%A1ebet-moj.jpg" 
+                src="https://www.juznevesti.com/wp-content/uploads/2025/02/IMG_20250201_155500-scaled-e1738492846599.jpg" 
                 alt="Transparenti na protestu" 
                 className="w-full h-64 object-cover hover:scale-105 transition-transform duration-300"
               />
