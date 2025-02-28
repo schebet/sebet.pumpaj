@@ -50,7 +50,7 @@ function App() {
 
       {/* Hero section */}
       <section className="relative">
-        <div className="h-[60vh] bg-cover bg-center" style={{ backgroundImage: "url('https://schebet.netlify.app/assets/%C5%A1ebet-moj.jpg')" }}>
+        <div className="h-[60vh] bg-cover bg-center" style={{ backgroundImage: "url('https://www.facebook.com/photo?fbid=10235532869770752&set=pcb.3887287474821741')" }}>
           <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center">
             <div className="text-center text-white px-4">
               <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4">Glas Studenata Srbije</h2>
