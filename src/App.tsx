@@ -115,7 +115,7 @@ function App() {
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <div className="overflow-hidden rounded-lg shadow-md">
               <img 
-                src="https://schebet.netlify.app/assets/%C5%A1ebet-moj.jpg" 
+                src="https://www.facebook.com/photo?fbid=10235532869770752&set=pcb.3887287474821741" 
                 alt="Studenti na protestu" 
                 className="w-full h-64 object-cover hover:scale-105 transition-transform duration-300"
               />
