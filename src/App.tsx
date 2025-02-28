@@ -115,7 +115,7 @@ function App() {
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <div className="overflow-hidden rounded-lg shadow-md">
               <img 
-                src="https://images.unsplash.com/photo-1532117182044-031e7cd916ee?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                src="https://schebet.netlify.app/assets/%C5%A1ebet-moj.jpg" 
                 alt="Studenti na protestu" 
                 className="w-full h-64 object-cover hover:scale-105 transition-transform duration-300"
               />
@@ -129,14 +129,14 @@ function App() {
             </div>
             <div className="overflow-hidden rounded-lg shadow-md">
               <img 
-                src="https://images.unsplash.com/photo-1582896911227-c966f6e7fb93?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                src="https://schebet.netlify.app/assets/%C5%A1ebet-moj.jpg" 
                 alt="Transparenti na protestu" 
                 className="w-full h-64 object-cover hover:scale-105 transition-transform duration-300"
               />
             </div>
             <div className="overflow-hidden rounded-lg shadow-md">
               <img 
-                src="https://images.unsplash.com/photo-1608403890696-0f18a2960153?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                src="https://schebet.netlify.app/assets/%C5%A1ebet-moj.jpg" 
                 alt="Govornici na protestu" 
                 className="w-full h-64 object-cover hover:scale-105 transition-transform duration-300"
               />
